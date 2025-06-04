@@ -23,17 +23,15 @@
 <!-- Introducción -->
 - 🔭 Actualmente estoy trabajando con **Laravel, Angular, Tailwind y Livewire**
 
-- 🌱 Estoy aprendiendo a **combinar stacks modernos para aplicaciones escalables**
+- 🌱 Estoy aprendiendo adiversos frameworks y lenguajes **de cara a ampliar mis conocimientos**
 
-- ☁️ Me interesa la computación en la nube, por eso estoy explorando **AWS**
-
-- 📝 Escribo artículos (próximamente) en [Hashnode](https://1010nishant.hashnode.dev/)
+- ☁️ Me interesa la computación de cara a cursas el grado universitario en **ingenieria informatica**
 
 - 💬 Pregúntame sobre **Laravel, Angular, Docker, Livewire o Tailwind**
 
-- 📫 Puedes contactarme en **nicorodriigueez@gmail.com**
+- 📫 Puedes contactarme en **nrvdinero2715@gmail.com**
 
-- 🏠 También puedes saludarme en **Discord** – [nicorodriigueez](https://discordapp.com/users/957722095381540874)
+- 🏠 También puedes saludarme en **Discord** – [nicorodriigueez]
 
 ---
 
@@ -90,10 +88,7 @@
 <a href="https://discordapp.com/users/957722095381540874" target="blank"><img src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="50" /></a>
 </p>
 
-<!-- visitas -->
-<div align="center">
-  [![](https://visitcount.itsvg.in/api?id=nicorodriigueez&icon=3&color=6)](https://visitcount.itsvg.in)
-</div>
+
 
 <!-- divisor final -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
