@@ -3,7 +3,7 @@
 
 <!-- imagen del perfil (más grande) -->
 <div align="center">
-  <img src="nio.png" alt="Nico profile image" width="500" />
+  <img src="nio.png" alt="Nico profile image" width="900" />
 </div>
 
 <!-- título principal -->
