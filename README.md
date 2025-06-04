@@ -1,16 +1,16 @@
 <!-- divisor horizontal -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+<!-- imagen del perfil (más grande) -->
+<div align="center">
+  <img src="nio.png" alt="Nico profile image" width="500" />
+</div>
+
 <!-- título principal -->
 <div id="user-content-toc">
   <ul align="center">
     <summary><h1 style="display: inline-block">Buenas 👋, Soy Nicolás</h1></summary>
   </ul>
-</div>
-
-<!-- imagen del perfil (snake) -->
-<div align="center">
-  <img src="nio.png" alt="Nico profile image" width="300" />
 </div>
 
 <!-- frase secundaria -->
