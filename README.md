@@ -29,7 +29,7 @@
 
 - 💬 Pregúntame sobre **Laravel, Angular, Docker, Livewire o Tailwind**
 
-- 📫 Puedes contactarme en **nrvdinero2715@gmail.com**
+- 📫 Puedes contactarme en **nicorodriguezjobs@gmail.com**
 
 - 🏠 También puedes saludarme en **Discord** – [nicorodriigueez]
 
